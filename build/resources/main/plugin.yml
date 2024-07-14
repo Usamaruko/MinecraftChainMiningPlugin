@@ -1,0 +1,9 @@
+name: ChainMiningPlugin
+version: '1.0'
+main: xuehua.chainminingplugin.ChainMiningPlugin
+api-version: '1.21'
+author: Usamaruko
+commands:
+  lswk:
+    description: Toggles chain mining mode.
+    usage: /lswk
