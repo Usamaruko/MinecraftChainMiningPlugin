@@ -1,0 +1,2 @@
+# MinecraftChainMiningPlugin
+MinecraftChainMiningPlugin
